@@ -1,4 +1,7 @@
-import './App.css'
+import './App.css';
+import Avatar from "./components/Avatar.jsx";
+import Intro from "./components/Intro.jsx";
+import SkillList from "./components/SkillList.jsx";
 
 function App() {
 
